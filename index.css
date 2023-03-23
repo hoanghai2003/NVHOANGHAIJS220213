@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    display: inline ;
+    justify-content: center ;
+    background: #200336;
+}
+
+.head{
+    background: black;
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 42px;
+}
+
+.head h3{
+    padding: 10px;
+}
+
+
+.wrapper__conten{
+    border:  2px solid black;
+    text-align: center;
+    background: wheat;
+    position: relative;
+    bottom: 50px;
+    height: 150px;
+    border-radius: 10px;
+    
+
+}
+div.wrapper__conten{
+    margin: 0 280px;
+    
+}
+
+.wrapper__conten .spn_conten{
+    font-size: 20px;
+    position: relative;
+    bottom: 25px;
+}
+
+.wrapper__conten .spn_conten_tow{
+     position: relative;
+     bottom: 40px;
+     
+
+     
+}
+.wrapper__conten button{
+    font-size: 20px;
+    margin: 10px;
+    border-radius: 50%;
+
+}
+
+.wrapper__conten .inputt{
+ position: relative;
+
+ bottom: 30px;
+
+}
+.wrapper__conten input{
+    width: 350px;
+    height: 35px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+button{
+    font-size: 10px;
+    border:none ;
+    position: relative;
+    top: 2px;
+    cursor: pointer;
+    transition: 0.25s;
+}
+button:hover{
+    background: rgb(255 192 199);
+}
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}
+
+.boss{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+    background: white;
+    margin: 0 280px;
+    height: 90px;
+    border-radius: 20px;
+
+}
+
+span{
+    position: relative;
+    left: 10px;
+    margin-bottom: 50px;
+    bottom:20px;
+    color:red;
+    border-radius: 50px;
+    background: rgb(255 192 199);
+    padding: 12px;
+    text-align: center;
+    cursor: pointer;
+    padding-top: 0 10px;
+
+    
+}
+.boss .icon{
+    position: relative;
+    right: 10px;
+    cursor: pointer;
+
+}
+
+i.fa-solid.fa-xmark{
+    margin-left: 14px;
+  
+}
+#table{
+
+margin-left: 280px;
+text-align: center  ;
+width: 725px;
+}
+#aa{
+    background: white;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+ 
